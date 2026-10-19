@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Al-Shreef</title>
+  <desc id="desc">Computer Science student and software developer based in Amman, Jordan.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10253f"/>
+      <stop offset="1" stop-color="#173d58"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#64d8cb"/>
+      <stop offset="1" stop-color="#f1c77a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <path d="M0 264 C210 209 298 339 526 284 S888 217 1200 271" fill="none" stroke="#2e5d70" stroke-width="2" opacity=".55"/>
+  <circle cx="1062" cy="147" r="170" fill="none" stroke="#4c8b92" stroke-width="1.5" opacity=".35"/>
+  <circle cx="1062" cy="147" r="121" fill="none" stroke="#4c8b92" stroke-width="1.5" opacity=".35"/>
+  <path d="M1020 102 l-38 45 38 45 M1106 102 l38 45 -38 45 M1080 89 l-36 116" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="67" y="61" width="72" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="67" y="138" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="51" font-weight="700">Mohammed Al-Shreef</text>
+  <text x="70" y="185" fill="#c9e3e3" font-family="Segoe UI, Arial, sans-serif" font-size="23">Computer Science Student  /  Software Developer</text>
+  <text x="70" y="237" fill="#f1c77a" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1">ASP.NET CORE  ·  SQL SERVER  ·  DATA DESIGN</text>
+</svg>
