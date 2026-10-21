@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mohammed Al-Shreef — Computer Science student and software developer" width="100%" />
-
 ### Building useful web applications and dependable data systems
 
 Computer Science student at **Zarqa University** · Amman, Jordan  
@@ -23,13 +21,13 @@ I am completing a **BSc in Computer Science at Zarqa University** (expected grad
 
 An ASP.NET Core MVC application for room discovery, bookings, and hotel operations. It includes customer and admin roles, availability checks, seasonal pricing, offers, and inventory management.
 
-[![Hotel room listing](https://raw.githubusercontent.com/abonaeem657/Hotel-Management-System/main/docs/screenshots/rooms.png)](https://github.com/abonaeem657/Hotel-Management-System)
+[![Hotel room listing](assets/hotel-rooms-new.png)](https://github.com/abonaeem657/Hotel-Management-System)
 
 ### [TechStore E-Commerce](https://github.com/abonaeem657/techstore-ecommerce)
 
 A storefront built with ASP.NET Core MVC. Visitors can browse and search products; registered users can manage the catalog. The project demonstrates cookie authentication, password hashing, validation, and CRUD operations.
 
-[![TechStore home page](https://raw.githubusercontent.com/abonaeem657/techstore-ecommerce/main/docs/screenshots/store-home.png)](https://github.com/abonaeem657/techstore-ecommerce)
+[![TechStore home page](assets/techstore-home-new.png)](https://github.com/abonaeem657/techstore-ecommerce)
 
 | Data and learning projects | What they demonstrate |
 | --- | --- |
