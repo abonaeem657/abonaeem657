@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Al-Shreef, software developer</title>
+  <desc id="desc">A dark editorial portfolio banner with a preview of web application and database work.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081726"/><stop offset=".55" stop-color="#0d2635"/><stop offset="1" stop-color="#123a42"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#213c4c"/><stop offset="1" stop-color="#152a39"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#93e7d4"/><stop offset="1" stop-color="#e6cf91"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#90b9b7" stroke-opacity=".08"/></pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#030a12" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1600" height="520" rx="24" fill="url(#background)"/>
+  <rect width="1600" height="520" rx="24" fill="url(#grid)"/>
+  <path d="M0 420C254 320 392 520 616 430S1005 347 1600 470" fill="none" stroke="#98dfd0" stroke-opacity=".14" stroke-width="2"/>
+  <circle cx="1453" cy="78" r="165" fill="#69c9b8" opacity=".08"/>
+  <circle cx="1309" cy="456" r="210" fill="#e6cb8a" opacity=".05"/>
+  <rect x="76" y="77" width="12" height="12" rx="3" fill="#a8e2d2"/>
+  <text x="104" y="88" fill="#c5e9de" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">DEVELOPER PORTFOLIO</text>
+  <text x="76" y="194" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-3">MOHAMMED</text>
+  <text x="76" y="273" fill="url(#accent)" font-family="Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-3">AL-SHREEF</text>
+  <text x="79" y="332" fill="#d3e1e5" font-family="Arial, sans-serif" font-size="24">Web applications that feel good to use.</text>
+  <text x="79" y="369" fill="#d3e1e5" font-family="Arial, sans-serif" font-size="24">Data systems built with care.</text>
+  <rect x="77" y="416" width="310" height="52" rx="26" fill="#b8e7d4"/>
+  <text x="111" y="449" fill="#0b2931" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1">C#  ·  ASP.NET CORE  ·  SQL</text>
+  <g filter="url(#shadow)">
+    <rect x="936" y="68" width="565" height="364" rx="21" fill="url(#panel)" stroke="#6ca39f" stroke-opacity=".5"/>
+    <path d="M936 116H1501" stroke="#d0e7dc" stroke-opacity=".16"/>
+    <circle cx="967" cy="92" r="6" fill="#e7a89c"/><circle cx="990" cy="92" r="6" fill="#e4d399"/><circle cx="1013" cy="92" r="6" fill="#8dd5bd"/>
+    <text x="1041" y="99" fill="#b9d2d0" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">PORTFOLIO / SELECTED WORK</text>
+    <rect x="965" y="143" width="310" height="132" rx="14" fill="#163b48" stroke="#568a8d" stroke-opacity=".45"/>
+    <rect x="988" y="166" width="94" height="10" rx="5" fill="#92ded0"/>
+    <rect x="988" y="191" width="194" height="15" rx="7" fill="#e7f3ef"/>
+    <rect x="988" y="225" width="240" height="8" rx="4" fill="#96afb5"/>
+    <rect x="988" y="243" width="179" height="8" rx="4" fill="#96afb5"/>
+    <rect x="1295" y="143" width="177" height="132" rx="14" fill="#cce4db"/>
+    <path d="M1319 232L1354 193L1383 217L1423 170L1450 196" fill="none" stroke="#1e706e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1354" cy="193" r="7" fill="#1e706e"/><circle cx="1423" cy="170" r="7" fill="#1e706e"/>
+    <rect x="965" y="294" width="507" height="106" rx="14" fill="#102936" stroke="#61868a" stroke-opacity=".48"/>
+    <circle cx="1023" cy="347" r="22" fill="#a7dbcc"/><circle cx="1186" cy="347" r="22" fill="#e5d19b"/><circle cx="1409" cy="347" r="22" fill="#9dc5d1"/>
+    <path d="M1045 347H1164M1208 347H1387" stroke="#91bcb6" stroke-width="4" stroke-dasharray="10 8"/>
+    <text x="995" y="386" fill="#b7ced0" font-family="Arial, sans-serif" font-size="13">IDEA</text>
+    <text x="1154" y="386" fill="#b7ced0" font-family="Arial, sans-serif" font-size="13">BUILD</text>
+    <text x="1378" y="386" fill="#b7ced0" font-family="Arial, sans-serif" font-size="13">SHIP</text>
+  </g>
+  <text x="947" y="466" fill="#9fc7c4" font-family="Arial, sans-serif" font-size="16" letter-spacing="2">AMMAN, JORDAN  •  OPEN TO OPPORTUNITIES</text>
+</svg>
