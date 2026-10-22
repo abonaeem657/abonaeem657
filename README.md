@@ -25,7 +25,7 @@ Room discovery and booking flows for customers, with administration tools for ho
 
 `ASP.NET Core MVC` · `EF Core` · `SQL Server` · `Identity`
 
-[Watch the 30-second walkthrough →](https://github.com/abonaeem657/Hotel-Management-System/blob/main/docs/video/hotel-walkthrough.mp4) · [See the code and setup →](https://github.com/abonaeem657/Hotel-Management-System)
+[Watch the 38-second walkthrough →](https://abonaeem657.github.io/Hotel-Management-System/) · [See the code and setup →](https://github.com/abonaeem657/Hotel-Management-System)
 
 ### 02 · [TechStore E-Commerce](https://github.com/abonaeem657/techstore-ecommerce)
 
